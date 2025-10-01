@@ -33,11 +33,11 @@ export const USER: User = {
   about: `
 My name is Karthikeya. I like working with small-sized teams, preferably less than 30 people. I usually work around 15 hours daily on my side projects as well as my main work. I enjoy helping the community and contributing to open source projects.
 
-I have around 1.5 years of experience in development and 1 year of professional experience building products. I like exploring how I can make scalable AI systems, like RAG pipelines and agentic workflows with task delegation.
+I have around 1.5+ years of experience in development and 1+ year of professional experience building products. I like exploring how I can make scalable systems, like RAG pipelines and agentic workflows with task delegation.
 
 I launched my own Chrome extension startup. Within 3 months, it reached around 500 users, and to this date, it has around 1,000 users.
 
-I enjoy solving interesting problems and researching new things. After scaling a project, I focus on implementing new features or researching innovative solutions.
+I enjoy solving interesting problems and researching new things.I focus on implementing new features or researching innovative solutions.
   `,
   avatar: "https://avatars.githubusercontent.com/u/108949445?v=4",
   ogImage:

@@ -4,7 +4,7 @@ export const EXPERIENCES: Experience[] = [
   {
     id: "myacolyte",
     companyName: "MyAcolyte EdTech",
-    companyLogo: "https://assets.chanhdai.com/images/companies/simplamo.webp", // Placeholder, replace later
+    companyLogo: "https://myacolytev2.d33dw1fkaewgg9.amplifyapp.com/favicon.ico", // Placeholder, replace later
     positions: [
       {
         id: "lead-fullstack-2025",
@@ -25,7 +25,7 @@ export const EXPERIENCES: Experience[] = [
 - Implemented dual-study agents: Smart Study Mode (ChatGPT-like) and Intensive Thinking Mode, enabling intelligent role switching for better study assistance.
 - Built a PDF viewer with annotation support. leading to recurring API licensing deals (three-figure monthly revenue).
 - Maintained project organization on ClickUp, ensuring smooth coordination.
-- Managed 3 interns + 1 full-time dev; hired 30 engineers (conducted interviews and team scaling).
+- Managed 3 interns + 1 full-time dev.
 - Interviewed over 30 experienced engineers, supporting technical hiring and team scaling.
         `,
         skills: [

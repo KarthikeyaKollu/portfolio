@@ -15,7 +15,7 @@ An LLM-based OS that performs tasks according to prompts:
 - Replans and adapts efficiently if initial attempts fail (80%-95% success rate).
 - Completely local, ensuring data privacy with no external data exposure.
 `,
-    logo: "",
+    logo: "https://www.openinterpreter.com/favicon.ico",
     isExpanded: true,
   },
 
@@ -41,7 +41,7 @@ Gumloop is a DOM extension designed to replace Gummy:
 - Maximum flexibility for AI-driven web workflows.
 Additional reference: [Day 4 Notes](https://www.notion.so/Day-4-24c621c8114480528611cd66b38b9c6d)
 `,
-    logo: "",
+    logo: "https://avatars.githubusercontent.com/u/133821906?s=200&v=4",
     isExpanded: true,
   },
 
