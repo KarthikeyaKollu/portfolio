@@ -53,8 +53,8 @@ export default function Page() {
         <Projects />
         <Separator />
 
-        <Brand />
-        <Separator />
+        {/* <Brand />
+        <Separator /> */}
       </div>
     </>
   );
