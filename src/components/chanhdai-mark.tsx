@@ -1,7 +1,6 @@
 export function ChanhDaiMark(props: React.ComponentProps<"svg">) {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 112 64" {...props}>
-    </svg>
+    <div className="text-3xl">💻</div>
   );
 }
 
