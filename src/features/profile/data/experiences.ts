@@ -21,12 +21,8 @@ export const EXPERIENCES: Experience[] = [
 - Reduced Docker container sizes by 38%, improving deployment speed and resource efficiency.
 - Designed efficient fingerprinting algorithm for duplicate detection and linking in a central doc repository to optimize RAG.
 - Developed a robust Examination Generation system: reduced question-generation time for 100 NEET-level medical questions from 30 minutes to 500 seconds (without parallelism, via optimized data/model flows).
-- Refactored RHE flow: added permission and chunk tables, removing duplication; checked chunk existence to streamline retrieval and access control.
 - Implemented dual-study agents: Smart Study Mode (ChatGPT-like) and Intensive Thinking Mode, enabling intelligent role switching for better study assistance.
-- Built a PDF viewer with annotation support. leading to recurring API licensing deals (three-figure monthly revenue).
-- Maintained project organization on ClickUp, ensuring smooth coordination.
 - Managed 3 interns + 1 full-time dev.
-- Interviewed over 30 experienced engineers, supporting technical hiring and team scaling.
         `,
         skills: [
           "TypeScript",
